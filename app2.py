@@ -33,3 +33,5 @@ df1 = pd.DataFrame(df,
     columns=['ACTIVE_CASES', 'RESOLVED_CASES', 'DEATHS'])
 
 st.line_chart(df1)
+
+#PROVA GIT
