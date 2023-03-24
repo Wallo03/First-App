@@ -1,6 +1,6 @@
 import streamlit as st ###allias
 
-#st.text("Ciao questo front-end funziona")
+st.text("Ciao questo front-end funziona")
 
 #markown
 #st.markdown('Streamlit is **_really_ cool**.')
